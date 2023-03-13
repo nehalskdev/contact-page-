@@ -68,7 +68,8 @@ section .container .contact-info .info li {
   list-style: none;
 
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  gap: 10px;
 
   cursor: pointer;
   color: #fff;
